@@ -1,7 +1,7 @@
 {
-  "name": "typescript-npm-library-starter",
-  "version": "1.0.4",
-  "description": "Starter for a NPM package build with TypeScript goodness 🚀",
+  "name": "@risiscafford/hello-npm",
+  "version": "1.0.0",
+  "description": "Forked from typescript-npm-library-starter to publish a test npm package",
   "scripts": {
     "test": "jest --config jestconfig.json",
     "prepublishOnly": "npm test && npm run lint && npm run format && npm run tscov",
@@ -17,17 +17,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/raymonschouwenaar/typescript-npm-library-starter"
+    "url": "git+https://github.com/risiscafford/typescript-npm-library-starter.git"
   },
   "keywords": [
     "typescript",
-    "javascript",
-    "library",
     "npm",
-    "node",
-    "nodejs"
+    "starter",
+    "demo"
   ],
-  "author": "Raymon Schouwenaar",
+  "author": "risiscafford",
   "license": "ISC",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
