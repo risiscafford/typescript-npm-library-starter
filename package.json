@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/risiscafford/typescript-npm-library-starter.git"
+    "url": "https://github.com/risiscafford/typescript-npm-library-starter.git"
   },
   "keywords": [
     "typescript",
