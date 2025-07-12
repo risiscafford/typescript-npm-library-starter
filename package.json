@@ -1,6 +1,6 @@
 {
   "name": "@risiscafford/hello-npm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Forked from typescript-npm-library-starter to publish a test npm package",
   "scripts": {
     "test": "jest --config jestconfig.json",
